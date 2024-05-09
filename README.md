@@ -1,4 +1,4 @@
-# Project AWS Lab – IITC
+# Project Terraform 2 - AWS Lab - IITC
 
 The project allow us to set up a system that allows users to access a frontend Web app through API Gateway, authenticate using Amazon Cognito, and interact with various AWS services such as DynamoDB, S3 Bucket, Lambda function, and CloudWatch. Additionally, the user message is customizable using a value stored in Parameter Store.
 
